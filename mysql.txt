@@ -1,0 +1,11 @@
+show databases;
+create database projectdb1;
+use projectdb;
+
+create table studenttab1(
+id int PRIMARY KEY AUTO_INCREMENT,
+sname varchar(20),
+scourse varchar(30),
+sfee int
+)
+select * from studenttab1
