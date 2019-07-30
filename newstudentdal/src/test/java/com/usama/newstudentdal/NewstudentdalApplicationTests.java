@@ -1,5 +1,7 @@
 package com.usama.newstudentdal;
 
+import java.util.Optional;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,5 +27,28 @@ public class NewstudentdalApplicationTests {
 		
 		studentRepository.save(student);
 	}
+		
+		/*@Test
+		public void testFindStudentById()
+		{
+			Student student = studentRepository.findById(1l);
+
+			System.out.println(student);
+		}
+	*/
 
 }
+		/*@Test
+		public void testUpdateStudent()
+		{
+			Student student = studentRepository.findById(1l);
+
+			student.setFee(40d);
+			studentRepository.save(student);
+		}*/
+
+		/* public void testDeleteStudent()
+		{
+			studentRepository.deleteById(1l);
+		}
+		*/
