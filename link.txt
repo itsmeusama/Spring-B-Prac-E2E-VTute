@@ -11,3 +11,8 @@ https://www.youtube.com/watch?v=DCZOchCX10s
 ----Angular 6 CRUD Operations With Firebase
 https://www.youtube.com/watch?v=9wxEwE8UFr0
 https://github.com/CodAffection/Angular-6-CRUD-Operation-With-Firebase
+
+
+
+--AngularJs,SpringBoot,Restful API,JPA,Hibernate and MYSQL
+https://www.youtube.com/watch?v=CrjDoPITesQ
