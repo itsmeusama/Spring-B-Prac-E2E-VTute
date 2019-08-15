@@ -17,5 +17,10 @@ https://github.com/CodAffection/Angular-6-CRUD-Operation-With-Firebase
 --AngularJs,SpringBoot,Restful API,JPA,Hibernate and MYSQL
 https://www.youtube.com/watch?v=CrjDoPITesQ
 
---Angular 7 Master Detail CRUD with Web API - Part 1
+--Angular 7 Master Detail CRUD with Web API - Part 1 & 2
 https://www.youtube.com/watch?v=R2dOyHJu4a8
+.
+https://www.youtube.com/watch?v=8tMmqswQTl0
+
+
+--
